@@ -1,1 +1,5 @@
-# HR-Project-New
+1.This dataset contains information about 1,470 employees, providing insights into compensation, and attrition patterns. Overall, the company has an attrition rate of around 16.1%, means that about 83.9% are willing to stay in the company. The average age of employees is approximately 37 years, and their average monthly income is about ₹6,503. On average, employees have around 11 years of total work experience.
+
+2.Employees who do not work overtime have a low attrition rate of 10.4%, while those who work overtime has a high attrition rate of 30.5%. Department wise, Sales and Human Resources department have the high attrition rate of 20.6%. While Research And Development has a low attrition rate of 13.8%. When we consider income wise managers and research directors has highest income with average monthly income of about ₹17,182 and ₹16,034, whereas sales representatives and laboratory technicians has lowest income around ₹2,600–₹3,200.
+
+3.Overall, it suggests that overtime, department type, and job role play a major role in employee attrition and satisfaction. To reduce turnover, the company could focus on employees who work overtime, improving work-life balance. 
